@@ -3,6 +3,8 @@
 ## Overview
 This Jupyter notebook is designed to facilitate the conversion of complex Teradata PL/SQL scripts, typically used in SAP data pipelines, into Python code executable within a Databricks environment. The conversion process leverages an open-source large language model for initial code generation, followed by manual refinements to ensure accuracy and efficiency.
 
+Link to nootebook can be found [here](https://colab.research.google.com/github/mgorav/LLMBasedMigration/blob/main/Enhanced_Teradata_to_Databricks_Converter.ipynb)
+
 ## Features
 - **Automatic Code Conversion**: Utilizes advanced language models to convert Teradata PL/SQL scripts into Python code.
 - **Manual Refinement Support**: Provides a framework for further manual adjustments to the automatically generated code.
